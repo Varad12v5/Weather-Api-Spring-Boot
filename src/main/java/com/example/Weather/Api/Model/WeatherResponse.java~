@@ -1,0 +1,6 @@
+package com.example.Weather.Api.Model;
+
+public class WeatherResponse {
+
+
+}
